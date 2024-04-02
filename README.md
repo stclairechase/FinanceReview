@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project
+# FinanceReview
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+Text based financial audit to deliver information from your accounts to your device
 
 ## Useful commands
 
